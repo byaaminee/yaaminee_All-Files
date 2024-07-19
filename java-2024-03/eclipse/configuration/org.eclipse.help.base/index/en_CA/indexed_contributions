@@ -1,0 +1,21 @@
+#This is a generated file; do not edit.
+#Sun Jul 07 18:13:57 EDT 2024
+org.eclipse.eclemma.doc=org.eclipse.eclemma.doc\n3.1.8.202312121452
+org.eclipse.egit.doc=org.eclipse.egit.doc\n6.9.0.202403050737-r
+org.eclipse.epp.mpc.help.ui=org.eclipse.epp.mpc.help.ui\n1.10.3.v20240221-1216
+org.eclipse.epp.mpc.ui=org.eclipse.epp.mpc.ui\n1.10.3.v20240228-1000
+org.eclipse.help=org.eclipse.help\n3.10.300.v20240107-2054
+org.eclipse.help.base=org.eclipse.help.base\n4.4.300.v20240229-0520
+org.eclipse.jdt=org.eclipse.jdt\n3.19.400.v20240229-0520
+org.eclipse.jdt.doc.user=org.eclipse.jdt.doc.user\n3.15.2100.v20240228-1609
+org.eclipse.m2e.core.ui=org.eclipse.m2e.core.ui\n2.0.800.20240217-0902
+org.eclipse.mylyn.github.doc=org.eclipse.mylyn.github.doc\n6.4.0.v20231212-2002
+org.eclipse.mylyn.help.ui=org.eclipse.mylyn.help.ui\n4.2.0.v20240130-0811
+org.eclipse.mylyn.wikitext.help.ui=org.eclipse.mylyn.wikitext.help.ui\n4.2.0.v20240130-0811
+org.eclipse.oomph.p2.doc=org.eclipse.oomph.p2.doc\n1.14.0.v20230625-0755
+org.eclipse.oomph.setup.doc=org.eclipse.oomph.setup.doc\n1.14.0.v20230618-0610
+org.eclipse.platform=org.eclipse.platform\n4.31.100.v20240229-0520
+org.eclipse.platform.doc.user=org.eclipse.platform.doc.user\n4.31.0.v20240228-1609
+org.eclipse.ui.cheatsheets=org.eclipse.ui.cheatsheets\n3.8.300.v20240202-1455
+org.eclipse.ui.intro=org.eclipse.ui.intro\n3.7.300.v20231214-1012
+org.eclipse.ui.intro.universal=org.eclipse.ui.intro.universal\n3.5.300.v20240122-1701
